@@ -1,0 +1,77 @@
+
+
+h1 {
+    background-color: #2B3856;
+    color: red;
+    font-size: 60px;
+    text-align: center;
+    font-family: georgia, "times new roman", times, serif;
+  }
+
+h2 {
+    background-color: #2B3856;
+    color: #C24641;
+    font-family: georgia, "times new roman", times, serif;
+    border-style: double;
+    border-radius: 5px;
+    border-color: #C24641;
+    padding: 5px;
+    margin: 30px 0px 10px 0px;
+    font-size: 30px;
+  }
+
+body {
+    background-color: #2B3856;
+    color: white;
+    font-family: verdana, geneva, arial, helvetica, sans-serif;
+    margin: 5px;
+    padding: 5px;
+    font-size: 15px;
+  }
+
+td {
+    background-color: #42BEC2;
+    color: black;
+  }
+
+th {
+    background-color: #42BEC2;
+    color: black;
+  }
+
+table {
+    border: 10px #C24641
+  }
+
+a:hover {
+    background-color: white;}
+
+.antwoord {
+    background-color: black;
+  }
+
+.antwoord:hover {
+  background-color: #42BEC2;
+}
+
+.uitlegquiz {
+  padding: 10px;
+}
+
+.school {
+  font-size: 120%;
+  font-family: georgia;
+  font-weight: bold;
+}
+
+ul.soorttopvijf li{
+  background-color: #2B3856;
+  border: 5px solid #42BEC2;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+ol.topvijf li{
+  background-color: #2B3856;
+  border: none;
+}
